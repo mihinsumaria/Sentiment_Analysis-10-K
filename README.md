@@ -21,6 +21,3 @@ If you want to run it on an EC2 instance:
 4. Add the company tickers and CIK codes to `companylist.txt`
 5. Run `chmod a+x run_job.sh`
 6. Followed by `./run_job.sh`
-
-Please note, you need a minimum of 4 GB RAM to run this code.
-
