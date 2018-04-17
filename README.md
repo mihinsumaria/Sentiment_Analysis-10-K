@@ -15,7 +15,7 @@ If you want to run it locally, then:
 3. Followed by: `./run_job.sh`
 
 If you want to run it on an EC2 instance:
-1. Setup an EC2 instance [here](https://aws.amazon.com/ec2/).
+1. Setup an EC2 instance as shown [here](https://aws.amazon.com/ec2/).
 2. SSH into the EC2 instance, instructions can be found [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html)
 3. SCP the above files (except the .pem) file to the EC2 instance, the instructions can be found in the above link.
 4. Add the company tickers and CIK codes to `companylist.txt`
